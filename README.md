@@ -17,6 +17,6 @@ Let's create, innovate, and shape the future together! 💡🎨📲
 
 **Connect with Me**
 
-- GitHub: [https://github.com/Akwealth]
-- LinkedIn: [https://www.linkedin.com/in/akanimo-essien-3a3528155]
-- Email: [akwealth47@gmail.com]
+- GitHub: https://github.com/Akwealth
+- LinkedIn: https://www.linkedin.com/in/akanimo-essien-3a3528155
+- Email: akwealth47@gmail.com
